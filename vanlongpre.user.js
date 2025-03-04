@@ -27,6 +27,7 @@
 // @match        https://1shortlink.com/*
 // @match        https://bstlar.com/*
 // @match        *://getkey.farrghii.com/*
+// @match        https://discord.com/*
 // @match        https://yeumoney.com/*
 // @require      https://raw.githubusercontent.com/khoadevcode/usepre/refs/heads/main/vanlong.js
 // @require      https://raw.githubusercontent.com/khoadevcode/usepre/refs/heads/main/vanlong-yeu.js

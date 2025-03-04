@@ -2,7 +2,7 @@
 // @name         Bypass Ez
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Bypass so cool ( pre - Yuno )
+// @description  Bypass so cool ( pre - Vanlong)
 // @author       UwU
 // @match        *://trigonevo.fun/*
 // @match        *://discord.com/channels/*
@@ -29,7 +29,7 @@
 // @match        *://getkey.farrghii.com/*
 // @match        https://yeumoney.com/*
 // @require      https://raw.githubusercontent.com/khoadevcode/usepre/refs/heads/main/vanlong.js
-// @require      https://raw.githubusercontent.com/khoadevcode/usepreff/refs/heads/main/yuno-yeu.js
+// @require      https://raw.githubusercontent.com/khoadevcode/usepre/refs/heads/main/vanlong-yeu.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue

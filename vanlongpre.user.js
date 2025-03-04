@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Bypass Vanlong
+// @name         Bypass Ez
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Bypass so cool ( Pre - Vanlong )

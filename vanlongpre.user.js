@@ -28,7 +28,7 @@
 // @match        https://bstlar.com/*
 // @match        *://getkey.farrghii.com/*
 // @match        https://yeumoney.com/*
-// @require      https://raw.githubusercontent.com/khoadevcode/usepre/refs/heads/main/vl-yeu.js
+// @require      https://raw.githubusercontent.com/phantatdung233/bypass-yeumoney/refs/heads/main/bypass-yeumoney-V3.js
 // @require      https://github.com/khoadevcode/usepre/raw/main/vanlong.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
